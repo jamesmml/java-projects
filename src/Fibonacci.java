@@ -7,7 +7,7 @@ import java.util.Scanner;
  *
  * @author James Milgram
  */
-public class FibonacciWithLooping {
+public class Fibonacci {
     /**
      * This method calculates the value of
      * the fibonacci sequence at a specified
