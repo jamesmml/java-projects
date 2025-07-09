@@ -5,7 +5,8 @@ These projects were developed to practice applying algorithmic thinking in Java.
 While the logic is foundational, the goal was to build fluency in OOP and syntax distinct from Python.
 
 ## Contents
-Work in progress!
+All files are located in [src](src/)
+- [Fibonacci.java](src/Fibonacci.java)
 
 ## How to Run
 You can run these projects using any Java IDE:
