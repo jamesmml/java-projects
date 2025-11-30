@@ -19,7 +19,6 @@ You can run these projects using any Java IDE:
 1. Clone this repository:
 git clone https://github.com/jamesmml/java-projects.git
 2. Open the cloned project folder in your IDE
-3. Run the `main` class
 
 ## What One Will Learn
 These projects have helped reinforce fundamental programming concepts in Java.
